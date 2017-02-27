@@ -1,0 +1,15 @@
+[Icon Theme]
+Name=Numix Circle GalliumOS
+Comment=Numix Circle for GalliumOS
+
+Inherits=Numix-GalliumOS
+
+Example=directory-x-normal
+
+# Directory list
+Directories=48x48/apps
+
+[48x48/apps]
+Size=48
+Context=Applications
+Type=Fixed

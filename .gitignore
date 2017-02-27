@@ -1,0 +1,4 @@
+debian/tmp
+debian/files
+debian/*debhelper*
+debian/*numix-icons-galliumos*

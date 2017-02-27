@@ -1,0 +1,52 @@
+numix-icons-galliumos (2.0.0) xenon; urgency=medium
+
+  * Initial release of reworked pkg
+    - depend on (and inherit from) republished upstream pkgs for most content
+    - publish only our modifications
+
+ -- reynhout <reynhout@galliumos.org>  Sun, 26 Feb 2017 21:09:51 +0000
+
+numix-icons-galliumos (0git20151013.129da4d-galliumos5) xenon; urgency=medium
+
+  * Test inheriting of upstream themes
+
+ -- David Muckle <dvdmuckle@galliumos.org>  Sun, 26 Feb 2017 15:11:22 -0500
+
+numix-icons-galliumos (0git20151013.129da4d-galliumos4) xenial; urgency=medium
+
+  * Darkened network manager signal icons
+
+ -- Hugh Greenberg <hugh@galliumos.org>  Fri, 20 May 2016 21:05:33 +0000
+
+numix-icons-galliumos (0git20151013.129da4d-galliumos3) vivid-galliumos; urgency=medium
+
+  * Set package version to match provenance
+  * Multiple upstreams (should probably be separate repos and pkgs)
+    - https://github.com/numixproject/numix-icon-theme 20151014.1198157
+    - https://github.com/numixproject/numix-icon-theme-circle 20151013.129da4d
+
+ -- reynhout <reynhout@galliumos.org>  Sun, 10 Jan 2016 21:05:33 +0000
+
+numix-icons-galliumos (1.0.3) vivid-galliumos; urgency=medium
+
+  * Added elementary Xfce as the first parent
+
+ -- Hugh Greenberg <hugh@galliumos.org>  Fri, 30 Oct 2015 22:16:16 -0600
+
+numix-icons-galliumos (1.0.2) vivid-galliumos; urgency=medium
+
+  * Fixes for theme names and inheritance
+
+ -- Hugh Greenberg <hugh@galliumos.org>  Sat, 17 Oct 2015 22:16:16 -0600
+
+numix-icons-galliumos (1.0.1) vivid-galliumos; urgency=medium
+
+  * Fixes for theme names and inheritance
+
+ -- Hugh Greenberg <hugh@galliumos.org>  Thu, 15 Oct 2015 22:16:16 -0600
+
+numix-icons-galliumos (1.0) vivid-galliumos; urgency=medium
+
+  * Initial release.
+
+ -- Hugh Greenberg <hugh@galliumos.org>  Thu, 15 Oct 2015 22:16:16 -0600
