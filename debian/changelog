@@ -1,3 +1,9 @@
+numix-icons-galliumos (2.0.1) xenon; urgency=medium
+
+  * Add ubiquity icon to Numix-GalliumOS
+
+ -- reynhout <reynhout@galliumos.org>  Tue, 28 Feb 2017 21:32:36 +0000
+
 numix-icons-galliumos (2.0.0) xenon; urgency=medium
 
   * Initial release of reworked pkg
