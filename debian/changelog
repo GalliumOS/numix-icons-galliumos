@@ -1,3 +1,9 @@
+numix-icons-galliumos (2.0.2) xenon; urgency=medium
+
+  * Added software update icons from elementary-xfce
+
+ -- David Muckle <dvdmuckle@galliumos.org>  Tue, 28 Feb 2017 16:53:04 -0500
+
 numix-icons-galliumos (2.0.1) xenon; urgency=medium
 
   * Add ubiquity icon to Numix-GalliumOS
