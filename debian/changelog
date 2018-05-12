@@ -1,3 +1,9 @@
+numix-icons-galliumos (2.9901) bismuth; urgency=medium
+
+  * Prepare for GalliumOS 3.0
+
+ -- reynhout <reynhout@galliumos.org>  Sat, 12 May 2018 03:51:40 +0000
+
 numix-icons-galliumos (2.0.2) xenon; urgency=medium
 
   * Added software update icons from elementary-xfce
