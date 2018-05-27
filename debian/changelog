@@ -1,6 +1,7 @@
-numix-icons-galliumos (2.9901) bismuth; urgency=medium
+numix-icons-galliumos (2.9902) bismuth; urgency=medium
 
   * Prepare for GalliumOS 3.0
+  * Add icon for galliumos-chat
 
  -- reynhout <reynhout@galliumos.org>  Sat, 12 May 2018 03:51:40 +0000
 
